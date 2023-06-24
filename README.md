@@ -11,7 +11,10 @@ To get started with the root optimizer, follow the steps below:
 * Clone the repository to your local machine.
 * Navigate to the project directory.
 * Build the project using your preferred C++ compiler.
-* Run the optimizer.
+* Run the optimizer
+
+ This project has the following dependencies:
+ * Visual Studio Code Installer - To run the code
 
  
 
