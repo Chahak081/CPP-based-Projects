@@ -8,28 +8,28 @@ This repository contains a miniature root optimizer implemented in C++ using obj
 Getting Started
 To get started with the root optimizer, follow the steps below:
 
-1.Clone the repository to your local machine:
-2.Navigate to the project directory:
-3.Build the project using your preferred C++ compiler
-4.Run the optimizer:
+* Clone the repository to your local machine.
+* Navigate to the project directory.
+* Build the project using your preferred C++ compiler.
+* Run the optimizer.
 
  
 
 Object-Oriented Programming (OOP) Concepts-
 The root optimizer utilizes the following OOP concepts:
 
-1.Encapsulation
-#Abstraction
-3.Inheritance
+* Encapsulation
+* Abstraction
+* Inheritance
 
 
 
 Data Structures
 The root optimizer uses the following data structures:
 
-1.Graphs
-2.Dijkstra's Algorithm
-3.Priority Queue
+* Graphs
+* Dijkstra's Algorithm
+* Priority Queue
 
 
 Contributing:
