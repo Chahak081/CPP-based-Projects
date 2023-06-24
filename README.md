@@ -19,7 +19,7 @@ Object-Oriented Programming (OOP) Concepts-
 The root optimizer utilizes the following OOP concepts:
 
 1.Encapsulation
-2.Abstraction
+#Abstraction
 3.Inheritance
 
 
