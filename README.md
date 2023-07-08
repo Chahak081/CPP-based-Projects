@@ -44,6 +44,15 @@ The root optimizer uses the following data structures:
 
 # Tic-Tac-toe game using CPP
 * Easy to use fun-game and made easy with minimum functions ans easy concepts
+  
+*  Concepts- The game utilizes the following cpp basic concepts:
+
+* Loops
+* Conditional statements
+* Functions
+
+
+
 
 
 Contributing:
