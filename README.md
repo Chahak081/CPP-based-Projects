@@ -2,7 +2,7 @@
 
 
 
-This repository consists of folders consisting of CPP codes as explained in readme futher.
+This repository consists of folders consisting of CPP mini projects hereby explained in readme futher.
 
 # Miniature root optimiser-
 This is an efficient application made as a group project in CPP based on Delhi metro to find the shortest path between two stations .
@@ -43,9 +43,9 @@ The root optimizer uses the following data structures:
 
 
 # Tic-Tac-toe game using CPP
-* Easy to use fun-game and made easy with minimum functions ans easy concepts
+  Easy to use fun-game and made easy with minimum functions ans easy concepts
   
-*  Concepts- The game utilizes the following cpp basic concepts:
+ Concepts- The game utilizes the following cpp basic concepts:
 
 * Loops
 * Conditional statements
