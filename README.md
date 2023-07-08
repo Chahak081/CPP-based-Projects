@@ -1,4 +1,10 @@
-# Miniature-Root-Optimiser
+# CPP based projects-
+
+
+
+This repository consists of folders consisting of CPP codes as explained in readme futher.
+
+# Miniature root optimiser-
 This is an efficient application made as a group project in CPP based on Delhi metro to find the shortest path between two stations .
 
 
@@ -33,6 +39,11 @@ The root optimizer uses the following data structures:
 * Graphs
 * Dijkstra's Algorithm
 * Priority Queue
+
+
+
+# Tic-Tac-toe game using CPP
+* Easy to use fun-game and made easy with minimum functions ans easy concepts
 
 
 Contributing:
