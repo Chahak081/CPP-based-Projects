@@ -50,6 +50,8 @@ The root optimizer uses the following data structures:
 * Loops
 * Conditional statements
 * Functions
+* Data Structures - set, 2d array , pair
+* OOPS Features - Class, object, encapsulation, abstraction
 
 
 
